@@ -239,7 +239,7 @@ def main():
                 st_lottie(lottie_projects, height=350, key="Projects")
 
             with col4:
-                graduation_file = "Graduation.pdf"
+                graduation_file = "Graduation Project.pdf"
                 
                 try:
                     with open(graduation_file, "rb") as grad:
