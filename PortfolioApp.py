@@ -144,8 +144,9 @@ def main():
                     I am eager to further develop my skills and contribute to innovative projects in the field.</p>
             </div>
             <div style='text-align: justify;'>
-                <p><a href="https://github.com/yilmazseyda">LinkedIn</a> | 
-                <a href="https://www.linkedin.com/in/şeyda-nur-yılmaz-09b1b4240/">GitHub</a> |
+                <p>
+                <a href="https://www.linkedin.com/in/şeyda-nur-yılmaz-09b1b4240/">LinkedIn</a> |
+                <a href="https://github.com/yilmazseyda">GitHub</a> | 
                 {to_cv} 
                 </p>
             </div>
