@@ -187,7 +187,7 @@ def main():
                     <div class="container" style="width: 100%; height: 400px; max-width: 1500; min-width: 300px; margin: 0 auto;">
                         <div style="display: flex; gap: 30px;">
                             <div style="flex: 1;">
-                                <h3 style="font-size: 22px; font-family: Arial, sans-serif; text-align: center;">Education</h3>
+                                <h3 style="font-size: 22px; font-family: Arial, sans-serif; text-align: center;"><strong>Education</strong></h3>
                                 <ul style="font-size: 18px; font-family: Arial, sans-serif;">
                                     <li><strong>Istanbul Technical University</strong>
                                         <ul style="font-size: 16px; font-family: Arial, sans-serif;">
@@ -200,7 +200,7 @@ def main():
                     <div class="divider"></div>
                     <div style="display: flex; gap: 20px;">
                         <div style="flex: 1;">
-                            <h3 style="font-size: 22px; font-family: Arial, sans-serif; text-align: center;">Experience</h3>
+                            <h3 style="font-size: 22px; font-family: Arial, sans-serif; text-align: center;"><strong>Experience</strong></h3>
                             <ul style="font-size: 18px; font-family: Arial, sans-serif;">
                                 <li><strong>K-UTEC Salt Technologies, Germany</strong>
                                     <ul style="font-size: 16px; font-family: Arial, sans-serif;">
