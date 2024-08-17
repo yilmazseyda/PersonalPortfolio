@@ -133,8 +133,6 @@ def main():
             to_cv = f'<a href="data:application/octet-stream;base64,{b64_cv}" download="Seyda_Nur_Yilmaz_CV.pdf">Resume</a>'
 
         except:
-            print("Resume cannot be found")
-
             to_cv = 'Resume is not available'
 
         st.markdown(f"""
@@ -249,9 +247,8 @@ def main():
                     to_grad = f'<a href="data:application/octet-stream;base64,{b64_grad}" download="Graduation Project.pdf">Paper</a>'
                 
                 except:
-                    print("Graduation Project cannot be found!")
-
                     to_grad = '<strong style="color: red;">Graduation Project is not available</strong>'
+
 
                 st.markdown(f"""
                     <div class="container" style="text-align: justify;">
